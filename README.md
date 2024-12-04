@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/my-github.gif" alt="Pixel Art Banner" width="100%"/>
+  <img src="assets/my-git.gif" alt="Pixel Art Banner" width="100%"/>
 </div>
 
 <div align="center">
