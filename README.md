@@ -6,15 +6,8 @@
 
 <div align="center">
   
-  ![Skills](https://skillicons.dev/icons?i=shopify,js,py,react,tailwind,bootstrap,docker,oracle,cloudflare,firebase,wordpress,linux,debian,vscode,vim)
+  ![Skills](https://skillicons.dev/icons?i=shopify,js,py,react,tailwind,bootstrap,docker,cloudflare,firebase,wordpress,linux,debian,vscode,vim)
 
-</div>
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Liquid-0078D4?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  
 </div>
 
 ## 📫 Contact Portal
