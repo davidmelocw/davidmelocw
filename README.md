@@ -10,16 +10,16 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USERNAME]&theme=radical&hide_border=true)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmelobrs&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidmelobrs&theme=radical&hide_border=true)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmelobrs&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ## 🏆 Achievement Board
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=[SEU_USERNAME]&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=davidmelobrs&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -35,8 +35,8 @@
 
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[NOME_REPO]&theme=radical)](https://github.com/[SEU_USERNAME]/[NOME_REPO])
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[NOME_REPO]&theme=radical)](https://github.com/[SEU_USERNAME]/[NOME_REPO])
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmelobrs&repo=[NOME_REPO]&theme=radical)](https://github.com/davidmelobrs/[NOME_REPO])
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmelobrs&repo=[NOME_REPO]&theme=radical)](https://github.com/davidmelobrs/[NOME_REPO])
 
 </div>
 
