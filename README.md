@@ -35,8 +35,7 @@
 
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmelobrs&repo=[NOME_REPO]&theme=radical)](https://github.com/davidmelobrs/[NOME_REPO])
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmelobrs&repo=[NOME_REPO]&theme=radical)](https://github.com/davidmelobrs/[NOME_REPO])
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmelobrs&repo=davidmelobrs&theme=radical)](https://github.com/davidmelobrs/davidmelobrs)
 
 </div>
 
@@ -50,3 +49,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count 👾</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/davidmelobrs/count.svg" /></p>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
