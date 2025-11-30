@@ -13,7 +13,7 @@
 ## 📫 Contact Portal
 
 <div align="center">
-  <a href="mailto:davidmelocw@proton.me">
+  <a href="mailto:david@cloudash.cc">
     <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/davidmelocw" target="_blank">
